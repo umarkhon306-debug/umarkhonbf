@@ -1,0 +1,135 @@
+body{
+  padding: 0;
+  margin: 0;
+background-color: #36384d;
+font-family: 'Roboto', sans-serif;
+
+
+
+
+
+
+
+
+
+}
+.login_head{
+  width: 928px;
+  height: 641px;
+  background-color: white;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 140px;
+  padding: 0px 30px;
+
+}
+
+
+
+.login_img{
+ width: 400px;
+ height: 593px;
+
+
+background: linear-gradient(90deg, rgba(255, 82, 123, 1) 0%,
+ rgba(255, 106, 58, 1) 50%);
+
+
+border-radius: 10px;
+}
+.text1{
+  color: #242742;
+font-weight: 700;
+font-size: 50px;
+line-height: 100%;
+
+
+}
+.text2{
+ font-weight: 400;
+  color: #242742;
+font-size: 16px;
+line-height: 150%;
+
+}  
+
+.login_chex_text div {
+  display: flex;
+align-items: center;
+gap: 10px;
+
+
+
+
+
+}
+.login_chex_text p{
+
+color: #242742;
+
+
+}
+.login_form{
+
+display: flex;
+flex-direction: column;
+
+}
+.form_label{
+
+
+
+  font-weight: 700;
+font-size: 14px;
+color: #242742;
+padding: 10px 0px;
+
+
+
+
+}
+.form_input{
+
+width: 370px;
+height: 40px;
+border-radius: 8px;
+padding: 0px 10px;
+font-size: 16px;
+border: 1px solid #3c3c3d40;
+
+
+
+
+}
+.btn{
+width: 390px;
+height: 40px;
+background-color: #242742;
+color: white;
+text-align: center;
+border-radius: 9px;
+border: 1px solid #242742;
+margin-top: 20px;
+cursor: pointer;
+}
+
+img{
+
+width: 400px;
+height: 593px;
+top: 243px;
+left: 760px;
+
+}
+
+
+
+
+
+
+
+
+
